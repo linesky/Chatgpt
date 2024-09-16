@@ -1,2 +1,1 @@
-# Chatgpt
-Unlimited chatgpt
+# simply calc
